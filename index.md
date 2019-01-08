@@ -1,2 +1,2 @@
 # AR Library
-This is a website for an AR Library! You can view it [here](ARWebsite.html)!
+please click [here](ARWebsite.html).
